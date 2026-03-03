@@ -1,30 +1,22 @@
 # codex-work
 
-Static starter repository for publishing simple HTML, CSS, and JavaScript sites
-with GitHub Pages.
+Публичный репозиторий для HTML/CSS-проектов, которые публикуются через GitHub
+Pages из одной ветки `main`.
 
-## Files
+## Публичные страницы
 
-- `index.html` - main page entrypoint
-- `styles.css` - site styling
-- `script.js` - small client-side interactions
-- `assets/` - images and supporting files
-- `.gitignore` - prevents common local and secret files from being committed
+- Каталог проектов:
+  `https://anna151661karenina-droid.github.io/codex-work/`
+- Программа ИИ-визации:
+  `https://anna151661karenina-droid.github.io/codex-work/programma-ii-vizatsiya/`
 
-## GitHub Pages setup
+## Структура
 
-1. Open the repository on GitHub.
-2. Go to `Settings` -> `Pages`.
-3. Under `Build and deployment`, choose `Deploy from a branch`.
-4. Select branch `main`.
-5. Select folder `/ (root)`.
-6. Save and wait for the Pages URL to be generated.
+- `index.html` и `styles.css` в корне — главная страница-каталог
+- `Старт работ/` — архив стартового шаблона
+- `programma-ii-vizatsiya/` — отдельный опубликованный проект
 
-Expected URL:
+## Безопасность
 
-`https://anna151661karenina-droid.github.io/codex-work/`
-
-## Safety
-
-Do not commit API keys, tokens, passwords, `.env`, or private company data to
-this repository.
+Не коммитить в репозиторий токены, `.env`, пароли, приватные документы и
+корпоративные данные, не предназначенные для публикации.
