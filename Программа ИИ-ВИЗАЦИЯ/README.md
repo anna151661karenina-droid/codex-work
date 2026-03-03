@@ -1,9 +1,14 @@
 # Программа ИИ-ВИЗАЦИЯ
 
-Для публикации через GitHub Pages проект вынесен в папку с ASCII-именем:
+Это рабочая папка проекта. Здесь лежат основные файлы оформления:
 
-`../programma-ii-vizatsiya/`
+- `index.html`
+- `styles.css`
 
-Так получается чистый публичный URL:
+Публичный URL остаётся таким:
 
 `https://anna151661karenina-droid.github.io/codex-work/programma-ii-vizatsiya/`
+
+Папка `../programma-ii-vizatsiya/` нужна только как публикуемая точка входа для
+GitHub Pages, чтобы адрес был чистым и без закодированных кириллических
+символов.
